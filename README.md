@@ -14,7 +14,7 @@ build intelligent cluster for the analysis of procurement objects and their attr
 - build embeddings with TF-IDF (TfidfVectorizer from sklearn)
 ## Model Output
 - Provider enter neccesery dicriprion and output similary goods
-![image](https://user-images.githubusercontent.com/41813477/193563746-dbae2996-6724-4155-ba3a-a56af6770fdd.png
+![image](https://user-images.githubusercontent.com/41813477/193901242-4af8401f-6b84-4dfa-a947-c6862f0a0a2a.png)
 - Model analys the received data
 - *Distribution the mean price among similar categories*
 ![image](https://user-images.githubusercontent.com/41813477/193564078-b7937eca-9963-4e4f-82bf-a947c88c6f40.png)
